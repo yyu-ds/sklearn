@@ -21,10 +21,10 @@
     - KBinsDiscretizer
   
   - [Imputation](https://github.com/yyu-ds/sklearn_notes/blob/main/01_DataProcessing/imputation.ipynb)
-    -SimpleImputer
-    -IterativeImputer
-    -KNNImputer
-    -MissingIndicator
+    - SimpleImputer
+    - IterativeImputer
+    - KNNImputer
+    - MissingIndicator
   
 
 
